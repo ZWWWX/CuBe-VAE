@@ -1,5 +1,5 @@
 <div align="center">
-<h1> CuBe-VAE:<br> A Single-Source Pedestrian Trajectory Prediction
+<h1> CuBe-VAE:<br> A Single-Source Pedestrian Trajectory <br>Prediction
 Framework <br> Fusing Implicit Causal Inference and Behavioral Inspiration </h1>
 <h3>zwwwwwwx
 </h3>
