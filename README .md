@@ -5,7 +5,7 @@ Framework <br> Fusing Implicit Causal Inference and Behavioral Inspiration </h1>
 </h3>
 
 
-<image src="CuBe-VAE/img/CuBe-VAE.png" width="500">
+<image src="img/CuBe-VAE.png" width="500">
 
 </div>
 
