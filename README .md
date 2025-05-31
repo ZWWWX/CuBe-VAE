@@ -16,7 +16,7 @@ This paper presents CuBe-VAE, a novel pedestrian trajectory prediction approach 
 Autoencoder (VAE) framework that achieves high-precision prediction by leveraging multi-level
 information contained solely in single trajectory data. Unlike mainstream methods relying on social
 interactions and complex scene information, we focus on single-source trajectory prediction, providing
-viable solutions for information-constrained scenarios. We innovatively apply implicit causal inference through the VAE architecture to establish causal relationships from observed trajectories to future
+viable solutions for information-constrained scenarios. We innovatively apply implicit causal inference through the VAE architecture to establish causal relationships from observed trajectories to future
 behaviors, effectively capturing uncertainties in pedestrian decision-making processes. Meanwhile,
 we incorporate two behavioral insights: local decision-making characteristics and implicit environ mental awareness, enabling the model to understand subtle behavioral changes when pedestrians
 encounter obstacles or make turns. The model integrates innovative designs including decomposition compression dual-path feature extraction, VAE-based implicit causal inference framework, strain
