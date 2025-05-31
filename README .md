@@ -18,8 +18,8 @@ information contained solely in single trajectory data. Unlike mainstream method
 interactions and complex scene information, we focus on single-source trajectory prediction, providing
 viable solutions for information-constrained scenarios. We innovatively apply implicit causal inference through the VAE architecture to establish causal relationships from observed trajectories to future
 behaviors, effectively capturing uncertainties in pedestrian decision-making processes. Meanwhile,
-we incorporate two behavioral insights: local decision-making characteristics and implicit environmental awareness, enabling the model to understand subtle behavioral changes when pedestrians
-encounter obstacles or make turns. The model integrates innovative designs including decompositioncompression dual-path feature extraction, VAE-based implicit causal inference framework, strain
+we incorporate two behavioral insights: local decision-making characteristics and implicit environ mental awareness, enabling the model to understand subtle behavioral changes when pedestrians
+encounter obstacles or make turns. The model integrates innovative designs including decomposition compression dual-path feature extraction, VAE-based implicit causal inference framework, strain
 energy-inspired trajectory evaluation mechanism, and trajectory state attention, achieving effective
 extraction and fusion of multi-level trajectory information. Experimental results demonstrate that
 our method significantly reduces prediction errors on multiple datasets including ETH-UCY, SDD,
